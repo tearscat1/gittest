@@ -8,5 +8,9 @@ public class test {
         System.out.println("也变秃了");
 
         System.out.println("我是帅哥");
+	System.out.println("也变秃了");
+ System.out.println("=============================");
+  System.out.println("也变秃了");
+  System.out.println("也变秃了");
     }
 }
