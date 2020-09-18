@@ -19,6 +19,7 @@ System.out.println("=============================");
 	    System.out.println("&&&&&&&&&&&&&&&&&&&&&&");
         System.out.println("java好难");
 	    System.out.println("打字吧");
+	    System.out.println("java so easy");
 
     }
 }
