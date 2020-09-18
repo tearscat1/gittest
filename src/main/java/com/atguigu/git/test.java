@@ -6,9 +6,11 @@ public class test {
         System.out.println("我很好");
         System.out.println("我变强了");
         System.out.println("也变秃了");
+
+        System.out.println("我是帅哥");
 	System.out.println("也变秃了");
  System.out.println("=============================");
-  System.out.println("也变秃了"); 
+  System.out.println("也变秃了");
   System.out.println("也变秃了");
  System.out.println("=============================");
   System.out.println("你是美女");
