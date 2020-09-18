@@ -10,5 +10,8 @@ public class test {
  System.out.println("=============================");
   System.out.println("也变秃了"); 
   System.out.println("也变秃了");
+ System.out.println("=============================");
+  System.out.println("你是美女");
+
     }
 }
