@@ -17,5 +17,8 @@ public class test {
 System.out.println("=============================");
 	    System.out.println("###########################");
 	    System.out.println("&&&&&&&&&&&&&&&&&&&&&&");
+        System.out.println("java好难");
+	    System.out.println("打字吧");
+
     }
 }
